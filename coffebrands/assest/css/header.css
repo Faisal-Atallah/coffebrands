@@ -1,0 +1,55 @@
+.navbar-nav{
+
+    color: white;
+}
+
+
+
+.navbar.navbar-inverse
+{
+
+    background-color: #2f2f2f;
+    color: #2f2f2f;
+    border-radius: 0;
+}
+
+
+
+.nav.navbar-nav li a {
+    color: white;
+}
+.nav.navbar-nav li a:hover {
+    color:darkgray;
+}
+
+
+.navbar-header .navbar-brand{
+
+    color: white;
+}
+
+.navbar-header .navbar-brand:hover{
+
+    color: darkgrey;
+}
+body{
+    font-family: 'Sansita', sans-serif;
+
+    background-color:whitesmoke;
+    color: white;
+}
+
+.navbar-nav > li > .dropdown-menu { background-color:#2f2f2f;
+
+color:whitesmoke;
+}
+
+
+.navbar-nav > li > .dropdown-menu a{   color: whitesmoke;  }
+
+
+.navbar-nav > li > .dropdown-menu a:hover{   color: #2f2f2f;
+
+
+
+}

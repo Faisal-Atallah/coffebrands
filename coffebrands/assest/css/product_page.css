@@ -1,0 +1,26 @@
+
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color:white;
+    background-color:#2f2f2f;
+}
+
+
+.nav-center{
+
+    border-bottom: solid 1px #2f2f2f;
+
+}
+
+
+.list-group-item{
+
+    border-color: #2f2f2f;
+}
+h3,h2,h4,p{
+
+    color: #2f2f2f;
+}
+
+
+

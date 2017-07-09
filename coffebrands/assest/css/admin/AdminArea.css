@@ -1,0 +1,32 @@
+body
+{
+
+
+    background-color: #1B1C1D;
+
+    color: white;
+
+}
+
+
+.form-control::-webkit-input-placeholder { color: #222222; font-size: 15px}
+
+.form-control:-moz-placeholder { color: #222222; }
+
+.form-control::-moz-placeholder { color: #222222; }
+
+.form-control:-ms-input-placeholder { color: #222222; }
+
+
+.form-control{
+
+    border-radius:0 ;
+}
+
+
+
+
+/*
+th{
+    background-color:#2f2f2f;
+}*/

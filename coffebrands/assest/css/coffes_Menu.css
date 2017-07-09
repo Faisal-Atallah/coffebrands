@@ -1,0 +1,82 @@
+#sub_menu{
+    position: relative;
+    background-color: #F5F5F5;
+
+}
+
+/*pills*/
+.nav-pills > li >a{
+
+    color:#555555;
+}
+.nav.nav-pills >li>a:hover{
+    border: transparent;
+    background-color:transparent;
+    color:#000000;
+}
+
+.nav-pills >li>a:focus{
+    border: transparent;
+    background-color: transparent;
+}
+.dropdown-menu{
+    background-color: #0f0f0f;
+    color: #FDC501;
+}
+.dropdown-menu li >a{
+    color: white;
+}
+
+.nav-center {
+    font-size: 1.35em;
+    text-align: center;
+    background-color:#F5F5F5;
+}
+ul.nav {
+    display: inline-block;
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    height:100%;
+    width: 120%;
+}
+.carousel-inner>.item{
+    height:100%;
+}
+
+.carousel-control {
+     position: absolute;
+    top: 40%;
+    left: 15px;
+    width: 50px;
+    height: 50px;
+    margin-top: -20px;
+    font-size: 60px;
+    font-weight: 100;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #222222;
+    border: 3px solid transparent;
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+}
+.carousel-control.right {
+    right: 15px;
+    left: auto;
+}
+.carousel-indicators li{
+    display:none;}
+
+
+

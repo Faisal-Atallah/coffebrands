@@ -1,0 +1,84 @@
+
+.form-control{
+    color:white;
+    background-color:#2f2f2f;
+
+}
+
+.form-control:focus{
+
+}
+
+.success{
+
+    color:#E60000;
+}
+
+.error{
+
+    color:#E60000;
+}
+
+
+.modal-header{
+
+       color: whitesmoke;
+    background-color: #2f2f2f;
+}
+
+.modal-content{
+
+
+    background-color:#2f2f2f;
+}
+
+.modal-body{
+
+
+    background-color:#222222;
+}
+
+.modal-footer{
+
+    color: whitesmoke;
+
+    background-color: #2f2f2f;
+
+}
+
+#message {
+
+    color:#E60000;
+}
+
+#messageLogin{
+
+    color:#E60000;
+}
+
+ .data-dismiss{
+
+     color: white;
+ }
+
+#footer{
+
+
+    margin-top:165px;
+
+    position: relative;
+
+}
+
+.btn.btn-default{
+    border-color: transparent;
+    border-radius:0 ;
+    background-color: #2f2f2f;
+    color: whitesmoke;
+}
+.btn.btn-default:hover{
+
+
+border-color:whitesmoke ;
+
+}
